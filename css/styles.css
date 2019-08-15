@@ -1,0 +1,18 @@
+body {
+  padding-top: 5rem;
+  background-color: #92deb9;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+h1{
+  color:pink
+}
+p{
+  color: pink
+}
+.navbar{
+  background-color: pink
+
+}
