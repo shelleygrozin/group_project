@@ -1,17 +1,17 @@
 body {
   padding-top: 5rem;
-  background-color: #04b816;
+  background-color: #572e2e;
 }
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
 }
 h1{
-  color:#692c2c
+  color:green
 }
 p{
-  color:#692c2c
+  color:green
 }
 .navbar{
-background-color: #692c2c
+background-color:green
  }
