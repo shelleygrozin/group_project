@@ -21,6 +21,8 @@ a{
 span{
   color: white;
 }
-#search-box{
-  margin-left:50em;
+
+#search {
+  margin-left: 38em;
+  width: 220px
 }
