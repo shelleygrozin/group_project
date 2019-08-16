@@ -18,6 +18,9 @@ background-color:#5cbf32;
 a{
   color:white;
 }
+span{
+  color: white;
+}
 #search-box{
   margin-left:50em;
 }
